@@ -1,3 +1,6 @@
+[native-base issue 1960](https://github.com/GeekyAnts/NativeBase/issues/1960)
+
+
 # Requirements #
 
 * Android Studio, recommendation v3.0.1
